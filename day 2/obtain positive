@@ -2,7 +2,7 @@
 
 int sum(int num);
 
-void main()
+int main()
 {
     int n;
     int result = 0;
