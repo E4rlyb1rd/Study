@@ -14,6 +14,7 @@ int main()
     printf("%d",result);
 
 }
+
 int sum(int num)
 {
     if(num ==1)
